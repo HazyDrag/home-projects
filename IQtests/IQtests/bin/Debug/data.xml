@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<groups>
+  <group number="104С" id="1">
+    <user id="1" surname="Иванов" name="Иван" patron="Иванович" birthday="11.12.2001">
+      <test id="1" name="Методика ТИП" variant="A" date="12.06.2017">44652435426742134233312631452</test>
+      <test id="4" name="Методика ТИП" variant="A" date="13.06.2017">44652435426242354233312634452</test>
+      <test id="5" name="Методика ТИП" variant="B" date="14.06.2017">23344444444444444444444444444</test>
+      <test id="6" name="Методика ТИП" variant="B" date="15.06.2017">33333554444554420443434333444</test>
+      <test id="7" name="Методика ТИП" variant="B" date="15.06.2017">22222222222222222222222222222</test>
+      <test id="8" name="Методика ТИП" variant="A" date="17.06.2017">44652435426246354236312631452</test>
+    </user>
+    <user id="2" surname="Петров" name="Петр" patron="Петрович" birthday="09.03.2006">
+      <test id="1" name="Методика ТИП" variant="B" date="13.05.2017">33161412666621464466451313516</test>
+      <test id="2" name="Методика ТИП" variant="A" date="09.06.2017">21344234456543244444543211256</test>
+      <test id="3" name="Методика ТИП" variant="B" date="09.06.2017">66543242662354564232354265431</test>
+      <test id="4" name="Методика ТИП" variant="A" date="09.06.2017">44652435426242354233312631452</test>
+    </user>
+    <user id="3" name="Игнат" surname="Игнатьев" patron="Игнатов" birthday="13.05.2003">
+      <test id="1" name="Методика ТИП" variant="A" date="17.06.2017">22222333333333333333333333333</test>
+      <test id="2" name="Методика ТИП" variant="A" date="17.06.2017">66666666660666666666666665555</test>
+    </user>
+  </group>
+  <group number="402Б" id="2">
+    <user id="1" surname="Васильев" name="Василий" patron="Васильевич" birthday="25.10.1999">
+      <test id="1" name="Методика ТИП" variant="B" date="8.02.2017">43524552143561562141255433316</test>
+      <test id="2" name="Методика ТИП" variant="A" date="5.03.2017">11646562142263666112253265263</test>
+    </user>
+    <user id="2" name="Олег" surname="Олегов" patron="Олегович" birthday="29.11.2015">
+      <test id="1" name="Методика ТИП" variant="B" date="17.06.2017">23263562335265413562561423165</test>
+      <test id="2" name="Методика ТИП" variant="A" date="17.06.2017">22144000000000000000000000000</test>
+      <test id="3" name="Методика ТИП" variant="B" date="17.06.2017">03244445445434313542353244543</test>
+    </user>
+    <user id="3" name="123" surname="124" patron="324" birthday="11.06.2017" />
+  </group>
+  <group number="444" id="3">
+    <user id="1" name="1" surname="1" patron="1" birthday="06.06.2017">
+      <test id="1" name="Методика ТИП" variant="A" date="09.06.2017">44304450402504544242343353435</test>
+    </user>
+  </group>
+  <group number="123" id="4" />
+</groups>
