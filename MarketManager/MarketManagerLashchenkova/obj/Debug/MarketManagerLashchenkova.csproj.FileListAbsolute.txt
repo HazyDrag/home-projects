@@ -1,0 +1,43 @@
+c:\users\goldr\documents\visual studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\bin\Debug\MarketManagerLashchenkova.exe.config
+c:\users\goldr\documents\visual studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\bin\Debug\MarketDB.mdf
+c:\users\goldr\documents\visual studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\bin\Debug\MarketDB_log.ldf
+c:\users\goldr\documents\visual studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\bin\Debug\MarketManagerLashchenkova.exe
+c:\users\goldr\documents\visual studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\bin\Debug\MarketManagerLashchenkova.pdb
+c:\users\goldr\documents\visual studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.csprojResolveAssemblyReference.cache
+c:\users\goldr\documents\visual studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Form1.resources
+c:\users\goldr\documents\visual studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Properties.Resources.resources
+c:\users\goldr\documents\visual studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.csproj.GenerateResource.Cache
+c:\users\goldr\documents\visual studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.exe
+c:\users\goldr\documents\visual studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.pdb
+c:\users\goldr\documents\visual studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.CreateRent.resources
+c:\users\goldr\documents\visual studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.ResultFilter.resources
+C:\Users\goldr\Documents\Visual Studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Registration.resources
+C:\Users\goldr\Documents\Visual Studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Map.resources
+C:\Users\goldr\Documents\Visual Studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Info.resources
+C:\Users\goldr\Documents\Visual Studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.AddPlace.resources
+C:\Users\goldr\Documents\Visual Studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.UpdateData.resources
+C:\Users\goldr\Documents\Visual Studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.PayForm.resources
+C:\Users\goldr\Documents\Visual Studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Money.resources
+C:\Users\goldr\Documents\Visual Studio 2015\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Dynamic.resources
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\bin\Debug\MarketDB.mdf
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\bin\Debug\MarketDB_log.ldf
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\bin\Debug\MarketManagerLashchenkova.exe.config
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\bin\Debug\MarketManagerLashchenkova.exe
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\bin\Debug\MarketManagerLashchenkova.pdb
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.csprojResolveAssemblyReference.cache
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.AddPlace.resources
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.CreateRent.resources
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Dynamic.resources
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Form1.resources
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Info.resources
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Map.resources
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Money.resources
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.PayForm.resources
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Properties.Resources.resources
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.Registration.resources
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.ResultFilter.resources
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.UpdateData.resources
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.csproj.GenerateResource.Cache
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.csproj.CoreCompileInputs.cache
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.exe
+E:\Projects\MarketManagerLashchenkova\MarketManagerLashchenkova\obj\Debug\MarketManagerLashchenkova.pdb
