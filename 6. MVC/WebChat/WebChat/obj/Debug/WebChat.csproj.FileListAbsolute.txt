@@ -1,0 +1,13 @@
+c:\users\hazydrag\documents\visual studio 2013\Projects\WebChat\WebChat\obj\Debug\WebChat.csprojResolveAssemblyReference.cache
+c:\users\hazydrag\documents\visual studio 2013\Projects\WebChat\WebChat\bin\WebChat.dll.config
+c:\users\hazydrag\documents\visual studio 2013\Projects\WebChat\WebChat\bin\WebChat.dll
+c:\users\hazydrag\documents\visual studio 2013\Projects\WebChat\WebChat\bin\WebChat.pdb
+c:\users\hazydrag\documents\visual studio 2013\Projects\WebChat\WebChat\obj\Debug\WebChat.dll
+c:\users\hazydrag\documents\visual studio 2013\Projects\WebChat\WebChat\obj\Debug\WebChat.pdb
+E:\Projects\WebChat\WebChat\bin\WebChat.dll.config
+E:\Projects\WebChat\WebChat\bin\WebChat.dll
+E:\Projects\WebChat\WebChat\bin\WebChat.pdb
+E:\Projects\WebChat\WebChat\obj\Debug\WebChat.csprojResolveAssemblyReference.cache
+E:\Projects\WebChat\WebChat\obj\Debug\WebChat.csproj.CoreCompileInputs.cache
+E:\Projects\WebChat\WebChat\obj\Debug\WebChat.dll
+E:\Projects\WebChat\WebChat\obj\Debug\WebChat.pdb

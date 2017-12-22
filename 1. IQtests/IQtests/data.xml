@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<groups>
+	<group number="104С" id="1">
+		<user id="1" surname="Иванов" name="Иван" patron="Иванович" birthday="11.12.2001">
+			<test name="ИП" date="4.06.2017">
+				2344354657867843567
+			</test>
+			<test name="ИП" date="5.02.2017">
+				8943579823482356823
+			</test>
+		</user>
+		<user id="2" surname="Петров" name="Петр" patron="Петрович" birthday="9.03.2006">
+			<test name="ИП" date="13.05.2017">
+				6757283476237846846
+			</test>
+		</user>
+	</group>
+	<group number="402Б" id="2">
+		<user id="1" surname="Васильев" name="Василий" patron="Васильевич" birthday="25.10.1999">
+			<test name="ИП" date="8.04.2017">
+				6345654645623458676
+			</test>
+			<test name="ИП" date="5.03.2017">
+				3242343425456823465
+			</test>
+		</user>
+	</group>
+</groups>

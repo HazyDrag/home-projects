@@ -1,0 +1,6 @@
+c:\users\hazydrag\documents\visual studio 2013\Projects\ServerForFile\ServerForFile\bin\ServerForFile.dll.config
+c:\users\hazydrag\documents\visual studio 2013\Projects\ServerForFile\ServerForFile\bin\ServerForFile.dll
+c:\users\hazydrag\documents\visual studio 2013\Projects\ServerForFile\ServerForFile\bin\ServerForFile.pdb
+c:\users\hazydrag\documents\visual studio 2013\Projects\ServerForFile\ServerForFile\obj\Debug\ServerForFile.csprojResolveAssemblyReference.cache
+c:\users\hazydrag\documents\visual studio 2013\Projects\ServerForFile\ServerForFile\obj\Debug\ServerForFile.dll
+c:\users\hazydrag\documents\visual studio 2013\Projects\ServerForFile\ServerForFile\obj\Debug\ServerForFile.pdb

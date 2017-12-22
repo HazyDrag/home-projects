@@ -1,0 +1,13 @@
+c:\users\hazydrag\documents\visual studio 2015\Projects\ParserLDB\ParserLDB\bin\Debug\ParserLDB.exe.config
+c:\users\hazydrag\documents\visual studio 2015\Projects\ParserLDB\ParserLDB\bin\Debug\ParserLDB.exe
+c:\users\hazydrag\documents\visual studio 2015\Projects\ParserLDB\ParserLDB\bin\Debug\ParserLDB.pdb
+c:\users\hazydrag\documents\visual studio 2015\Projects\ParserLDB\ParserLDB\obj\Debug\ParserLDB.csprojResolveAssemblyReference.cache
+c:\users\hazydrag\documents\visual studio 2015\Projects\ParserLDB\ParserLDB\obj\Debug\ParserLDB.exe
+c:\users\hazydrag\documents\visual studio 2015\Projects\ParserLDB\ParserLDB\obj\Debug\ParserLDB.pdb
+C:\Users\hazydrag\Documents\Visual Studio 2015\Projects\ParserLDB v 1\ParserLDB\bin\Debug\ParserLDB.exe.config
+C:\Users\hazydrag\Documents\Visual Studio 2015\Projects\ParserLDB v 1\ParserLDB\obj\Debug\ParserLDB.exe
+C:\Users\hazydrag\Documents\Visual Studio 2015\Projects\ParserLDB v 1\ParserLDB\obj\Debug\ParserLDB.pdb
+C:\Users\hazydrag\Documents\Visual Studio 2015\Projects\ParserLDB v 1\ParserLDB\bin\Debug\ParserLDB.exe
+C:\Users\hazydrag\Documents\Visual Studio 2015\Projects\ParserLDB v 1\ParserLDB\bin\Debug\ParserLDB.pdb
+C:\Users\hazydrag\Documents\Visual Studio 2015\Projects\ParserLDB v 1\ParserLDB\obj\Debug\ParserLDB.csprojResolveAssemblyReference.cache
+C:\Users\hazydrag\Documents\Visual Studio 2015\Projects\ParserLDB v 1\ParserLDB\obj\Debug\ParserLDB.csproj.ResolveComReference.cache

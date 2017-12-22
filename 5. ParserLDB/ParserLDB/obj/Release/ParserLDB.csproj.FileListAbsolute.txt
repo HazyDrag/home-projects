@@ -1,0 +1,7 @@
+E:\Projects\ParserLDB v 1\ParserLDB\bin\Release\ParserLDB.exe.config
+E:\Projects\ParserLDB v 1\ParserLDB\bin\Release\ParserLDB.exe
+E:\Projects\ParserLDB v 1\ParserLDB\bin\Release\ParserLDB.pdb
+E:\Projects\ParserLDB v 1\ParserLDB\obj\Release\ParserLDB.csproj.ResolveComReference.cache
+E:\Projects\ParserLDB v 1\ParserLDB\obj\Release\ParserLDB.csproj.CoreCompileInputs.cache
+E:\Projects\ParserLDB v 1\ParserLDB\obj\Release\ParserLDB.exe
+E:\Projects\ParserLDB v 1\ParserLDB\obj\Release\ParserLDB.pdb

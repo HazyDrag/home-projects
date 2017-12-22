@@ -1,0 +1,17 @@
+c:\users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\bin\Debug\IQtests.exe.config
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\bin\Debug\IQtests.exe
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\bin\Debug\IQtests.pdb
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.csprojResolveAssemblyReference.cache
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.EditGroups.resources
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.Form1.resources
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.Properties.Resources.resources
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.csproj.GenerateResource.Cache
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.exe
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.pdb
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.AddGroup.resources
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.AddUser.resources
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.LkEntry.resources
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.Lk.resources
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.LearnIP.resources
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.ChooseVar.resources
+C:\Users\hazydrag\documents\visual studio 2015\Projects\IQtests\IQtests\obj\Debug\IQtests.Results.resources

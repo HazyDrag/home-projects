@@ -1,0 +1,6 @@
+E:\Projects\ServerForFile\ServerForFile\bin\ServerForFile.dll.config
+E:\Projects\ServerForFile\ServerForFile\bin\ServerForFile.dll
+E:\Projects\ServerForFile\ServerForFile\bin\ServerForFile.pdb
+E:\Projects\ServerForFile\ServerForFile\obj\Release\ServerForFile.csproj.CoreCompileInputs.cache
+E:\Projects\ServerForFile\ServerForFile\obj\Release\ServerForFile.dll
+E:\Projects\ServerForFile\ServerForFile\obj\Release\ServerForFile.pdb
