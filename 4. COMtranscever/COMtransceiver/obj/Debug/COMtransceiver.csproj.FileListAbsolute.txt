@@ -1,0 +1,21 @@
+c:\users\hazydrag\documents\visual studio 2015\Projects\COMtransceiver\COMtransceiver\bin\Debug\COMtransceiver.exe.config
+c:\users\hazydrag\documents\visual studio 2015\Projects\COMtransceiver\COMtransceiver\bin\Debug\COMtransceiver.exe
+c:\users\hazydrag\documents\visual studio 2015\Projects\COMtransceiver\COMtransceiver\bin\Debug\COMtransceiver.pdb
+c:\users\hazydrag\documents\visual studio 2015\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.csprojResolveAssemblyReference.cache
+c:\users\hazydrag\documents\visual studio 2015\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.Form1.resources
+c:\users\hazydrag\documents\visual studio 2015\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.Properties.Resources.resources
+c:\users\hazydrag\documents\visual studio 2015\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.csproj.GenerateResource.Cache
+c:\users\hazydrag\documents\visual studio 2015\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.exe
+c:\users\hazydrag\documents\visual studio 2015\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.pdb
+C:\Users\hazydrag\documents\visual studio 2015\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.WaitForm.resources
+E:\Projects\COMtransceiver\COMtransceiver\bin\Debug\COMtransceiver.exe.config
+E:\Projects\COMtransceiver\COMtransceiver\bin\Debug\COMtransceiver.exe
+E:\Projects\COMtransceiver\COMtransceiver\bin\Debug\COMtransceiver.pdb
+E:\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.csprojResolveAssemblyReference.cache
+E:\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.Form1.resources
+E:\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.Properties.Resources.resources
+E:\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.WaitForm.resources
+E:\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.csproj.GenerateResource.Cache
+E:\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.csproj.CoreCompileInputs.cache
+E:\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.exe
+E:\Projects\COMtransceiver\COMtransceiver\obj\Debug\COMtransceiver.pdb

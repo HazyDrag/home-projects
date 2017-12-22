@@ -1,0 +1,10 @@
+E:\Projects\COMtransceiver\COMtransceiver\bin\Release\COMtransceiver.exe.config
+E:\Projects\COMtransceiver\COMtransceiver\bin\Release\COMtransceiver.exe
+E:\Projects\COMtransceiver\COMtransceiver\bin\Release\COMtransceiver.pdb
+E:\Projects\COMtransceiver\COMtransceiver\obj\Release\COMtransceiver.Form1.resources
+E:\Projects\COMtransceiver\COMtransceiver\obj\Release\COMtransceiver.Properties.Resources.resources
+E:\Projects\COMtransceiver\COMtransceiver\obj\Release\COMtransceiver.WaitForm.resources
+E:\Projects\COMtransceiver\COMtransceiver\obj\Release\COMtransceiver.csproj.GenerateResource.Cache
+E:\Projects\COMtransceiver\COMtransceiver\obj\Release\COMtransceiver.csproj.CoreCompileInputs.cache
+E:\Projects\COMtransceiver\COMtransceiver\obj\Release\COMtransceiver.exe
+E:\Projects\COMtransceiver\COMtransceiver\obj\Release\COMtransceiver.pdb
