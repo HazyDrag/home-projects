@@ -1,0 +1,2 @@
+timer = 90;
+colors = 3f48cc, 88001b, ec1c24, ff7f27, ffca18, fff200, c4ff0e, 0ed145, 8cfffb, 00a8f3, b83dba, ffaec8, b97a56;

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 683953b89eb4945418ea3cccc2feff34
+timeCreated: 1514368497
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Astakhov First Two Stripes F
+  fontNames:
+  - Astakhov First Two Stripes F
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

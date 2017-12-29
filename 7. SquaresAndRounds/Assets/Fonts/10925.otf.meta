@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 676b7be07cc422049880a937d32f6add
+timeCreated: 1514368497
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vinyl Stickons(RUS BY LYAJKA)
+  fontNames:
+  - Vinyl Stickons(RUS BY LYAJKA)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
